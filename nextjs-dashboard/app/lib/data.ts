@@ -1,5 +1,4 @@
 import postgres from 'postgres';
-import { neon } from '@neondatabase/serverless';
 
 import {
   CustomerField,
